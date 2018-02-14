@@ -1,4 +1,15 @@
+Wsjtx-Portable was created based on Wsjtx.
+Wsjtx-Portable is made to carry Wsjtx and uses raspberry pi and small LCD.
+Wsjtx-Portable follows the rules of the original Wsjt-x.
 
+Wsjtx-Portable was developed for those who already use Wsjtx.
+
+
+
+
+-----------------------------------------------------------------------------
+ORIGINAL README FILE
+-----------------------------------------------------------------------------
  __       __   ______      _____  ________      __    __ 
 |  \  _  |  \ /      \    |     \|        \    |  \  |  \
 | $$ / \ | $$|  $$$$$$\    \$$$$$ \$$$$$$$$    | $$  | $$
